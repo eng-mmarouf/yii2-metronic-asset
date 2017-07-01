@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mmarouf\\massets\\web": ""
+            "mmarouf\\massets\\web\\": ""
         }
     },
 	"extra": {

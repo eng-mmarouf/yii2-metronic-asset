@@ -1,5 +1,5 @@
 <?php
-namespace mmarouf\massets\web\;
+namespace mmarouf\massets\web;
 
 use yii\base\Exception;
 use yii\web\AssetBundle as BaseMetronicAsset;
