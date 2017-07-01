@@ -10,7 +10,7 @@ use yii\web\AssetBundle as BaseMetronicAsset;
  */
 class MetronicAsset extends BaseMetronicAsset
 {
-    public $sourcePath = '@vendor/enjoy-life/metronic/assets';
+    public $sourcePath = '@vendor/eng-mmarouf/metronic/assets';
     public $css = [
         //BEGIN LAYOUT FIRST STYLES
         '//fonts.googleapis.com/css?family=Oswald:400,300,700',
